@@ -1,0 +1,20 @@
+
+.body {
+  margin: 5% 0 0 2%;
+}
+
+.contact-body {
+  margin: 20px 0 0 0;
+}
+
+.page-container {
+  display: flex;
+}
+
+.edit-field {
+  margin: 20px 0 0 5%;
+}
+
+.error-msg {
+  color: red;
+}
